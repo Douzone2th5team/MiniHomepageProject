@@ -73,7 +73,7 @@ if (dropdowns.length) {
         })
     })
 }
-// Handle closing dropdowns if a user clicked the body
+
 window.addEventListener('mouseup', (event) => {
     if (dropdownIsOpen) {
         dropdowns.forEach((dropdownButton) => {
