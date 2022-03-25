@@ -28,6 +28,13 @@ hr{
     filter: blur(10px);
     margin: -10px;
 }
+#greeting{
+    margin-top: 0.5em;
+}
+
+#reset{
+    font-size: 13.3333px;
+}
 
 /* 기본속성 끝 */
 
