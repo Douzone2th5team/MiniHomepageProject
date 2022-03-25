@@ -3,7 +3,6 @@ const IMAGE_URL = "https://image.tmdb.org/t/p";
 const BASE_URL = "https://api.themoviedb.org/3/movie";
 const LANGUAGE = "ko-KR";
 const backdropImage = document.querySelector(".backdrop_image");
-
 const moviePoster = document.querySelector(".poster_image");
 const movieTitle = document.querySelector(".detail_title");
 const movieGenres = document.querySelector(".detail_genres");
